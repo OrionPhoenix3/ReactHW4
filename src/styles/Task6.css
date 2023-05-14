@@ -1,0 +1,30 @@
+.nav {
+    background-color: #9ea9dd8a;
+    display: flex;
+    justify-content: flex-start;
+    gap: 90px;
+    margin: 0;
+    padding: 20px 40px 20px;
+}
+
+.nav__li {
+    list-style-type: none;
+}
+
+nav a.active {
+    color:  #140027;
+}
+
+.nav__link {
+    font-size: 24px;
+    font-weight: bold;
+    color: #6b17f3;
+    text-decoration: none;
+    text-align: center;
+    width: 15vw;
+}
+
+.title {
+    text-align: center;
+    padding: 50px 0;
+}

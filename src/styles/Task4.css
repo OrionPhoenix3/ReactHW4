@@ -1,0 +1,34 @@
+.card-container {
+    margin-top: 100px;
+    text-align: center;
+}
+
+.task4-img{
+    width: 200px;
+    height: 230px;
+    border-radius: 10px;
+}
+
+.task4-title {
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.task4-text {
+    font-size: 18px;
+}
+
+.tooltip{
+    position: absolute;
+    background-color: rgb(206, 226, 240);
+    box-shadow:
+       inset 0 -3em 3em rgba(0,0,0,0.1),
+             0.3em 0.3em 1em rgba(0,0,0,0.3);
+    border-radius: 10px;
+    border: none;
+    padding: 10px;
+}
+
+.tooltip-title {
+    font-weight: bold;
+}
